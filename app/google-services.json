@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "686004492458",
+    "firebase_url": "https://rahulmissingapp.firebaseio.com",
+    "project_id": "rahulmissingapp",
+    "storage_bucket": "rahulmissingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686004492458:android:980155446877b9be",
+        "android_client_info": {
+          "package_name": "com.example.missing.recyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686004492458-34mii8kl3gdf93r7re67to3a2ukclctg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.missing.recyclerview",
+            "certificate_hash": "2c9ba0893084419631cb9d649c649b024a347c69"
+          }
+        },
+        {
+          "client_id": "686004492458-da71hsmoio3hiqn75s05of5o12nu49ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXmFZCMVT4g3Ni6szdjgzKuzA2sZMmBsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686004492458-da71hsmoio3hiqn75s05of5o12nu49ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
